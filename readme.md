@@ -67,14 +67,14 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-002B8A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dudxz.com/)
-[![Email](https://img.shields.io/badge/Email-contact%40dudxz.com-002B8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
+[![Email](https://img.shields.io/badge/Email-contact%40luizdudu.com-002B8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
 
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/576729846219014144"><img src="https://img.shields.io/badge/-dudxz, o perspicaz-blue?style=for-the-badge&logo=Discord&logoColor=002B8A&labelColor=black&color=black"></a>
+  <a href="https://discord.com/users/576729846219014144"><img src="https://img.shields.io/badge/-Luiz, o perspicaz-blue?style=for-the-badge&logo=Discord&logoColor=002B8A&labelColor=black&color=black"></a>
   <a href="https://twitch.com/dudxz7_"><img src="https://img.shields.io/badge/dudxz7__-0078D4?style=for-the-badge&logo=twitch&logoColor=002B8A&labelColor=black&color=black"></a>
-  <a href="https://instagram.com/dudxzn1"><img src="https://img.shields.io/badge/dudxzn1-0078D4?style=for-the-badge&logo=instagram&logoColor=002B8A&labelColor=black&color=black"></a>
+  <a href="https://instagram.com/dudufes"><img src="https://img.shields.io/badge/dudxzn1-0078D4?style=for-the-badge&logo=instagram&logoColor=002B8A&labelColor=black&color=black"></a>
 </p>
 
 ###  My favorite tools and technologies <a href="#-my-skill-sets--"> <img src = "https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/skill.gif" width = 16px></a> 
