@@ -30,7 +30,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 <!-- 🇧🇷:  FOTO CARTOON 2D --> 
 
 <div align="center">
-  <img src="assets/images/duduzito.png" width="200px" height="300"alt="Avatar do Dudxz" />
+  <img src="https://raw.githubusercontent.com/Iuizdudu/Iuizdudu/refs/heads/main/assests/duduzito.png" width="200px" height="300"alt="Avatar do Luiz dudu" />
 </div>
 
 <br>
@@ -67,7 +67,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-002B8A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dudxz.com/)
-[![Email](https://img.shields.io/badge/Email-contact%40dudxz.com-002B8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dudxz.com)
+[![Email](https://img.shields.io/badge/Email-contact%40dudxz.com-002B8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
 
 </div>
 
