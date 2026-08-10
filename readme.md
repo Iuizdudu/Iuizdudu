@@ -66,7 +66,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 ### 🌐 Socials: 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-002B8A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dudxz.com/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-002B8A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luizdudu.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-contact%40luizdudu.com-002B8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
 
 </div>
