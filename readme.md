@@ -96,7 +96,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br>Tailwind CSS
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br>Tailwind 
 </td>
 
 <td align="center" width="96">
@@ -122,7 +122,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=threejs" width="48" alt="Framer Motion"/><br>Framer Motion
+<img src="https://github.com/user-attachments/assets/343e4a4c-df62-4392-8faa-16f20e8989d7" width="48" alt="Framer Motion"/><br>Framer
 </td>
 
 <td align="center" width="96">
@@ -142,7 +142,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/><br>PHP
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/php.png" width="48" alt="PHP"/><br>PHP
 </td>
 
 <td align="center" width="96">
@@ -166,7 +166,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br>Vercel
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vercel.png" width="48" alt="Vercel"/><br>Vercel
 </td>
 </tr>
 </table>
@@ -194,7 +194,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/figma" width="48" alt="Figma"/><br>Figma
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/figma-color.png" width="48" alt="Figma"/><br>Figma
 </td>
 </tr>
 
@@ -204,15 +204,15 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows"/><br>Windows
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-xp.png" width="48" alt="Windows"/><br>Windows
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br>Linux
+<img src="https://github.com/user-attachments/assets/a9b26d38-639b-4291-b5e4-a017b8d9b8d2" width="48" alt="Linux"/><br>Linux
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/googlecloud" width="48" alt="SaaS"/><br>SaaS
+<img src="https://github.com/user-attachments/assets/5959a1b6-a926-4fe1-bb42-d9fd519f806c" width="48" alt="SaaS"/><br>SaaS
 </td>
 </tr>
 </table>
