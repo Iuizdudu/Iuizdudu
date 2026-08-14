@@ -83,7 +83,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <div align="center">
 
-### 🖥️ Tecnologias Frontend
+### <img src="https://img.icons8.com/color/48/my-computer.png" width="30" align="center"> Tecnologias Frontend
 
 <table>
 <tr>
