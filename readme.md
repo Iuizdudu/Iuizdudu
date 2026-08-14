@@ -66,7 +66,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <div align="center">
 
-### 🌐 Socials: 
+### <img src="https://github.com/user-attachments/assets/40b4876c-daef-439b-bbf7-1fb884043a5a" width="18"> Sociais:
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-002B8A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luizdudu.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-contact%40luizdudu.com-002B8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
@@ -83,7 +83,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <div align="center">
 
-### <img src="https://img.icons8.com/color/48/my-computer.png" width="30" align="center"> Tecnologias Frontend
+### <img src="https://img.icons8.com/color/48/my-computer.png" width="18" align="center"> Tecnologias Frontend
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <br>
 
-### ⚙️ Backend & APIs
+### <img src="https://img.icons8.com/fluency/48/sql.png" width="18"> Backend & APIs
 
 <table>
 <tr>
@@ -153,7 +153,7 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 
 <br>
 
-### 🗄️ Banco de Dados & Cloud
+### <img src="https://github.com/user-attachments/assets/984762a0-b04f-4bba-871a-fe9384f03a82" width="18"> Banco de Dados & Cloud 
 
 <table>
 <tr>
@@ -172,8 +172,8 @@ dudxz7"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&
 </table>
 
 <br>
-
-### 🛠️ Ferramentas & Plataformas
+ 
+### <img src="https://github.com/user-attachments/assets/2f83e26e-a0c7-4fcd-b52c-e1a45763a3ee" width="18"> Ferramentas & Plataformas  
 
 <table>
 <tr>
