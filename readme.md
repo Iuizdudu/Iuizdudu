@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iuizdudu/Iuizdudu/refs/heads/main/assests/duduzito.png" width="200px" height="300"alt="Avatar do Luiz dudu" />
+  <img src="https://raw.githubusercontent.com/Iuizdudu/Iuizdudu/refs/heads/main/assests/duduzito.png" width="200px" height="300" alt="Avatar do Luiz dudu" />
 </div>
 
 <br>
@@ -34,146 +34,51 @@
   <a href="https://instagram.com/dudufes"><img src="https://img.shields.io/badge/dudufes-0078D4?style=for-the-badge&logo=instagram&logoColor=002B8A&labelColor=black&color=black"></a>
 </p>
 
-
+<!-- 🇧🇷: TECNOLOGIAS (estilo skillicons) -->
 
 <div align="center">
 
 ### <img src="https://img.icons8.com/color/48/my-computer.png" width="18" align="center"> Tecnologias Frontend
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/><br>Next.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br>Tailwind 
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap"/><br>Bootstrap
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br>JavaScript
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/><br>TypeScript
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br>HTML
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br>CSS
-</td>
-
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/343e4a4c-df62-4392-8faa-16f20e8989d7" width="48" alt="Framer Motion"/><br>Framer
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" alt="GSAP"/><br>GSAP
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js&perline=4" alt="React, Tailwind, Bootstrap e JavaScript" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,html,css&perline=3" alt="TypeScript, HTML e CSS" />&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" alt="GSAP" />
+</p>
 
 <br>
 
 ### <img src="https://img.icons8.com/fluency/48/sql.png" width="18"> Backend & APIs
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/php.png" width="48" alt="PHP"/><br>PHP
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br>Python
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,c&perline=5" alt="Node.js, PHP, Python e C" />
+</p>
 
 <br>
 
-### <img src="https://github.com/user-attachments/assets/984762a0-b04f-4bba-871a-fe9384f03a82" width="18"> Banco de Dados & Cloud 
+### <img src="https://github.com/user-attachments/assets/984762a0-b04f-4bba-871a-fe9384f03a82" width="18"> Banco de Dados & Cloud
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare"/><br>Cloudflare
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vercel.png" width="48" alt="Vercel"/><br>Vercel
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,cloudflare,vercel&perline=5" alt="MySQL, Firebase, Cloudflare e Vercel" />
+</p>
 
 <br>
- 
-### <img src="https://github.com/user-attachments/assets/2f83e26e-a0c7-4fcd-b52c-e1a45763a3ee" width="18"> Ferramentas & Plataformas  
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br>Git
-</td>
+### <img src="https://github.com/user-attachments/assets/2f83e26e-a0c7-4fcd-b52c-e1a45763a3ee" width="18"> Ferramentas & Plataformas
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br>GitHub
-</td>
-
-<td align="center" width="96">
-<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48" alt="GitHub Copilot"/><br>Copilot
-</td>
-
-<td align="center" width="96">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" alt="Claude"/><br>Claude
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/figma-color.png" width="48" alt="Figma"/><br>Figma
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/xampp" width="48" alt="XAMPP"/><br>XAMPP
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-xp.png" width="48" alt="Windows"/><br>Windows
-</td>
-
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/a9b26d38-639b-4291-b5e4-a017b8d9b8d2" width="48" alt="Linux"/><br>Linux
-</td>
-
-<td align="center" width="96">
-<img src="https://github.com/user-attachments/assets/5959a1b6-a926-4fe1-bb42-d9fd519f806c" width="48" alt="SaaS"/><br>SaaS
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,windows&perline=4" alt="Git, GitHub, Figma e Windows" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5959a1b6-a926-4fe1-bb42-d9fd519f806c" width="48" alt="SaaS" />&nbsp;&nbsp;<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48" alt="GitHub Copilot" />&nbsp;&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" alt="Claude" />
+</p>
+<p align="center">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/120px-Google_AI_Studio_icon_%28May_2026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260531120721" width="48" alt="Google AI Studio" />&nbsp;&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity-color.png" width="48" alt="Antigravity" /> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/codex-color.png" width="48" alt="Codex" />&nbsp;&nbsp
+</p>
 
 </div>
-<br> 
+<br>
 
 <!-- 🇧🇷: Frase para espalhar o evangelho para o mundo :) -->
 
@@ -181,7 +86,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=002B8A&center=true&vCenter=true&width=900&lines=For+God+so+loved+the+world;that+He+gave+His+only+begotten+Son;that+whoever+believes+in+Him;should+not+perish,+but+have+everlasting+life.;John+3%3A16" alt="John 3:16" />
 </div>
 <br>
-
 
 <!-- 🇧🇷: Contribuições animadas  -->
 
@@ -195,4 +99,3 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,20:001845,45:002B8A,70:001845,100:000814&height=120&section=footer"/>
   </a>
 </div>
-
