@@ -71,10 +71,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,windows&perline=4" alt="Git, GitHub, Figma e Windows" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5959a1b6-a926-4fe1-bb42-d9fd519f806c" width="48" alt="SaaS" />&nbsp;&nbsp;<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48" alt="GitHub Copilot" />&nbsp;&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" alt="Claude" />
+  <img src="https://skillicons.dev/icons?i=linux,docker" alt="Linux" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5959a1b6-a926-4fe1-bb42-d9fd519f806c" width="48" alt="SaaS" />&nbsp;&nbsp;<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48" alt="GitHub Copilot" />&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/120px-Google_AI_Studio_icon_%28May_2026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260531120721" width="48" alt="Google AI Studio" />&nbsp;&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity-color.png" width="48" alt="Antigravity" /> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/codex-color.png" width="48" alt="Codex" />&nbsp;&nbsp
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/120px-Google_AI_Studio_icon_%28May_2026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260531120721" width="48" alt="Google AI Studio" />&nbsp;&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity-color.png" width="48" alt="Antigravity" /><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" alt="Claude" /> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/codex-color.png" width="48" alt="Codex" />&nbsp;&nbsp
 </p>
 
 </div>
