@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iuizdudu/Iuizdudu/refs/heads/main/assests/duduzito.png" width="200px" height="300" alt="Avatar do Luiz dudu" />
+  <img src="https://raw.githubusercontent.com/Iuizdudu/Iuizdudu/refs/heads/main/assests/bat.png" width="200px" height="300" alt="Avatar do Luiz dudu" />
 </div>
 
 <br>
