@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140005,20:450010,45:DC143C,70:450010,100:140005&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140000,20:4A0000,45:FF0000,70:4A0000,100:140000&height=120&section=header"/>
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 <!-- 🇧🇷:  APRESENTAÇÃO -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Hi,+I'm+Luiz+Eduardo!+%F0%9F%91%8B;I'm+18+years+old.;I'm+from+Cear%C3%A1,+Brazil.;I'm+a+student." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=FF0000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Hi,+I'm+Luiz+Eduardo!+%F0%9F%91%8B;I'm+18+years+old.;I'm+from+Cear%C3%A1,+Brazil.;I'm+a+student." alt="Typing SVG" />
 </div>
 <br>
 
@@ -23,15 +23,15 @@
 
 ### <img src="https://github.com/user-attachments/assets/6526c93d-7a69-4f11-9201-530a55b6d1ef" width="18"> Sociais: 
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luizdudu.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-contact%40luizdudu.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.dudxz.com-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luizdudu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-contact%40luizdudu.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luizdudu.com)
 
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/576729846219014144"><img src="https://img.shields.io/badge/-Luiz, o perspicaz-red?style=for-the-badge&logo=Discord&logoColor=DC143C&labelColor=black&color=black"></a>
-  <a href="https://twitch.com/dudxz7_"><img src="https://img.shields.io/badge/dudxz7__-DC143C?style=for-the-badge&logo=twitch&logoColor=DC143C&labelColor=black&color=black"></a>
-  <a href="https://instagram.com/dudufes"><img src="https://img.shields.io/badge/dudufes-DC143C?style=for-the-badge&logo=instagram&logoColor=DC143C&labelColor=black&color=black"></a>
+  <a href="https://discord.com/users/576729846219014144"><img src="https://img.shields.io/badge/-Luiz, o perspicaz-red?style=for-the-badge&logo=Discord&logoColor=FF0000&labelColor=black&color=black"></a>
+  <a href="https://twitch.com/dudxz7_"><img src="https://img.shields.io/badge/dudxz7__-FF0000?style=for-the-badge&logo=twitch&logoColor=FF0000&labelColor=black&color=black"></a>
+  <a href="https://instagram.com/dudufes"><img src="https://img.shields.io/badge/dudufes-FF0000?style=for-the-badge&logo=instagram&logoColor=FF0000&labelColor=black&color=black"></a>
 </p>
 
 <!-- 🇧🇷: TECNOLOGIAS (estilo skillicons) -->
@@ -83,7 +83,7 @@
 <!-- 🇧🇷: Frase para espalhar o evangelho para o mundo :) -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=DC143C&center=true&vCenter=true&width=900&lines=For+God+so+loved+the+world;that+He+gave+His+only+begotten+Son;that+whoever+believes+in+Him;should+not+perish,+but+have+everlasting+life.;John+3%3A16" alt="John 3:16" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=900&lines=For+God+so+loved+the+world;that+He+gave+His+only+begotten+Son;that+whoever+believes+in+Him;should+not+perish,+but+have+everlasting+life.;John+3%3A16" alt="John 3:16" />
 </div>
 <br>
 
@@ -96,6 +96,6 @@
 
 <div align="center">
   <a href="https://github.com/dudxz7">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140005,20:450010,45:DC143C,70:450010,100:140005&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140000,20:4A0000,45:FF0000,70:4A0000,100:140000&height=120&section=footer"/>
   </a>
 </div>
